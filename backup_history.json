@@ -1,0 +1,85 @@
+[
+  {
+    "backup_id": "20261015T050803Z-e68e1732",
+    "timestamp_utc": "2026-10-15T05:08:03.344012+00:00",
+    "bucket": "cfps12-cloud-backup-deepitha-2026",
+    "region": "ap-south-1",
+    "prefix": "backups/20261015T050803Z-e68e1732/",
+    "file_count": 2,
+    "verified": true,
+    "files": [
+      {
+        "file": "notes.txt",
+        "s3_key": "backups/20261015T050803Z-e68e1732/notes.txt",
+        "size_bytes": 33,
+        "original_sha256": "4ad9ce00b3ba96dcb71d93d46666023664816d90f24a53d7165ba9d396337bd7",
+        "uploaded_sha256": "4ad9ce00b3ba96dcb71d93d46666023664816d90f24a53d7165ba9d396337bd7",
+        "verified": true
+      },
+      {
+        "file": "report.txt",
+        "s3_key": "backups/20261015T050803Z-e68e1732/report.txt",
+        "size_bytes": 45,
+        "original_sha256": "788263c4fbd252cca45fe003e3326fe364a4ee0d46786a96c6f4279039b2645a",
+        "uploaded_sha256": "788263c4fbd252cca45fe003e3326fe364a4ee0d46786a96c6f4279039b2645a",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "backup_id": "20261015T055846Z-a1da8500",
+    "timestamp_utc": "2026-10-15T05:59:07.129956+00:00",
+    "bucket": "cfps12-cloud-backup-deepitha-2026",
+    "region": "ap-south-1",
+    "prefix": "backups/20261015T055846Z-a1da8500/",
+    "file_count": 2,
+    "size_bytes": 74,
+    "verified": true,
+    "files": [
+      {
+        "file": "notes.txt",
+        "s3_key": "backups/20261015T055846Z-a1da8500/notes.txt",
+        "size_bytes": 36,
+        "original_sha256": "dacf099399bbc1cd623fdb2db8cd13df68ea8ed3e83b4242e175f00ae6360632",
+        "uploaded_sha256": "dacf099399bbc1cd623fdb2db8cd13df68ea8ed3e83b4242e175f00ae6360632",
+        "verified": true
+      },
+      {
+        "file": "report.txt",
+        "s3_key": "backups/20261015T055846Z-a1da8500/report.txt",
+        "size_bytes": 38,
+        "original_sha256": "b02fabf8195f87d88cb5172a9ee9c8ca927a456a3d138324a96e24f4c47eabe4",
+        "uploaded_sha256": "b02fabf8195f87d88cb5172a9ee9c8ca927a456a3d138324a96e24f4c47eabe4",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "backup_id": "20261015T060003Z-09cb9cec",
+    "timestamp_utc": "2026-10-15T06:02:24.659204+00:00",
+    "bucket": "cfps12-cloud-backup-deepitha-2026",
+    "region": "ap-south-1",
+    "prefix": "backups/20261015T060003Z-09cb9cec/",
+    "file_count": 2,
+    "size_bytes": 74,
+    "verified": true,
+    "files": [
+      {
+        "file": "notes.txt",
+        "s3_key": "backups/20261015T060003Z-09cb9cec/notes.txt",
+        "size_bytes": 36,
+        "original_sha256": "dacf099399bbc1cd623fdb2db8cd13df68ea8ed3e83b4242e175f00ae6360632",
+        "uploaded_sha256": "dacf099399bbc1cd623fdb2db8cd13df68ea8ed3e83b4242e175f00ae6360632",
+        "verified": true
+      },
+      {
+        "file": "report.txt",
+        "s3_key": "backups/20261015T060003Z-09cb9cec/report.txt",
+        "size_bytes": 38,
+        "original_sha256": "b02fabf8195f87d88cb5172a9ee9c8ca927a456a3d138324a96e24f4c47eabe4",
+        "uploaded_sha256": "b02fabf8195f87d88cb5172a9ee9c8ca927a456a3d138324a96e24f4c47eabe4",
+        "verified": true
+      }
+    ]
+  }
+]
